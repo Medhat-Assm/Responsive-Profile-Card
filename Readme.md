@@ -29,10 +29,6 @@ A clean and elegant profile card UI built with **HTML** and **CSS**, featuring s
 2. Make sure the profile image `profile.jpg` exists in the `assets/images/` directory.
 3. Open the `index.html` file in your browser to view the profile card UI.
 
-## ✨ Screenshots
-
-![UI Screenshot](https://via.placeholder.com/600x400?text=Profile+Card+UI+Preview)
-
 ## 🔗 Social Icons
 
 This project uses Boxicons for social icons. You can replace the `href="#"` attributes with actual profile links.
