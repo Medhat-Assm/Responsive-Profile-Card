@@ -4,7 +4,7 @@ A clean and elegant profile card UI built with **HTML** and **CSS**, featuring s
 
 ## 📸 Preview
 
-![Preview](assets/images/profile.jpg)
+![Profile Card UI](https://github.com/user-attachments/assets/8a5c0ddb-5b9b-4f7f-8f7c-ba4dec2b6755)
 
 ## 🚀 Features
 
